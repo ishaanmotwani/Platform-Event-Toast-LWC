@@ -1,5 +1,5 @@
 public class OrderService {
     public static String getStatus() {
-        return 'COMPLETED';
+        return 'COMPLETED ORDER';
     }
 }
